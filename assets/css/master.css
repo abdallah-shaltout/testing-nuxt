@@ -6,7 +6,7 @@
 
 @layer base {
     body {
-        @apply font-maven overflow-x-hidden;
+        @apply font-maven overflow-x-hidden bg-slate-100;
     }
     input[type="text"]:focus,
     input[type="number"]:focus,
